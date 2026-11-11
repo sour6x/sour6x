@@ -3,13 +3,13 @@
 </p>
 
 <p align="center">
-  <a href="https://sour6x.github.io/Portfolio/"><strong>Portfolio</strong></a>
+  <a href="https://sour-portfolio.vercel.app/"><strong>Portfolio</strong></a>
   &nbsp; / &nbsp;
   <a href="https://www.linkedin.com/in/raj-narayanan-900650251/"><strong>LinkedIn</strong></a>
   &nbsp; / &nbsp;
   <a href="mailto:vrajnarayan666@gmail.com"><strong>Email</strong></a>
   &nbsp; / &nbsp;
-  <a href="https://sour6x.github.io/Portfolio/V-Raj-Narayanan-Resume.pdf"><strong>Resume</strong></a>
+  <a href="https://sour-portfolio.vercel.app/V-Raj-Narayanan-Resume.pdf"><strong>Resume</strong></a>
 </p>
 
 ## About me
@@ -73,7 +73,7 @@ A **custom two-layer guitar-effects PCB** designed around an ESP32-S3 and WM8960
 
 A **React portfolio** with an animated PCB theme, scroll-driven branching copper traces, responsive project layouts, and accessible text styling.
 
-[Visit the portfolio →](https://sour6x.github.io/Portfolio/) · [View the source](https://github.com/sour6x/Portfolio)
+[Visit the portfolio →](https://sour-portfolio.vercel.app/) · [View the source](https://github.com/sour6x/Portfolio)
 
 ## Engineering toolkit
 
@@ -131,5 +131,5 @@ English · Malayalam · Hindi · Tamil · Spanish
 
 For opportunities, collaborations, or a conversation about electronics, get in touch.
 
-**[Portfolio](https://sour6x.github.io/Portfolio/)** · **[LinkedIn](https://www.linkedin.com/in/raj-narayanan-900650251/)** · **[vrajnarayan666@gmail.com](mailto:vrajnarayan666@gmail.com)**
+**[Portfolio](https://sour-portfolio.vercel.app/)** · **[LinkedIn](https://www.linkedin.com/in/raj-narayanan-900650251/)** · **[vrajnarayan666@gmail.com](mailto:vrajnarayan666@gmail.com)**
 
