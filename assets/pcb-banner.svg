@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+ <title id="title">Hey, I'm Raj Narayanan</title><desc id="desc">Electronics and communication engineering. Embedded systems, PCB design and signal processing, on a dark green circuit board with copper traces.</desc>
+ <defs><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#35503b" opacity=".55"/></pattern><linearGradient id="chip" x2="1" y2="1"><stop stop-color="#304431"/><stop offset="1" stop-color="#102119"/></linearGradient></defs>
+ <rect width="1200" height="330" rx="16" fill="#0c1b16"/>
+ <rect x="625" y="1" width="574" height="328" fill="url(#grid)"/>
+ <g fill="none" stroke="#ae8557" stroke-width="1.5" opacity=".72"><path d="M690 0v65l70 70h72M1200 53h-130l-90 90h-40M1200 104h-94l-90 90h-75M1200 285h-150l-100-100M713 330v-65l90-90h40M775 0v45l85 85M1010 0v50l-90 90M1200 320h-250l-65-65v-32M690 330v-25l105-105h40M1200 227h-120l-78-78h-64"/></g>
+ <g fill="#102119" stroke="#d9ab78" stroke-width="2"><circle cx="760" cy="135" r="5"/><circle cx="1070" cy="53" r="5"/><circle cx="1106" cy="104" r="5"/><circle cx="1050" cy="285" r="5"/><circle cx="713" cy="265" r="5"/><circle cx="1010" cy="50" r="5"/><circle cx="950" cy="320" r="5"/><circle cx="1080" cy="227" r="5"/></g>
+ <g transform="translate(887 171) rotate(-8)"><g stroke="#c8b382" stroke-width="5"><path d="M-79-64h-16m16 16h-16m16 16h-16m16 16h-16m16 16h-16m16 16h-16m16 16h-16m16 16h-16m16 16h-16M79-64h16M79-48h16M79-32h16M79-16h16M79 0h16M79 16h16M79 32h16M79 48h16M79 64h16M-64-79v-16m16 16v-16m16 16v-16m16 16v-16m16 16v-16m16 16v-16m16 16v-16m16 16v-16m16 16v-16M-64 79v16m16-16v16m16-16v16m16-16v16M0 79v16m16-16v16m16-16v16m16-16v16m16-16v16"/></g><rect x="-79" y="-79" width="158" height="158" fill="url(#chip)" stroke="#acac7b" stroke-width="2"/><rect x="-70" y="-70" width="140" height="140" fill="none" stroke="#65794f"/><rect x="-34" y="-34" width="68" height="68" fill="none" stroke="#a4a674" opacity=".35" transform="rotate(45)"/><rect x="-16" y="-16" width="32" height="32" fill="#b3a46c" opacity=".2" transform="rotate(45)"/><circle cx="-58" cy="58" r="2.5" fill="#e9b780"/></g>
+ <path d="M40 42h95" stroke="#efbb87" stroke-width="3"/>
+ <text x="40" y="96" fill="#d8e0d3" font-family="Arial,Helvetica,sans-serif" font-size="25">Hey, I’m</text>
+ <text x="37" y="163" fill="#faf8ed" font-family="Arial,Helvetica,sans-serif" font-size="57" font-weight="700" letter-spacing="-2">Raj Narayanan<tspan fill="#efbb87">.</tspan></text>
+ <text x="40" y="207" fill="#d8e0d3" font-family="Arial,Helvetica,sans-serif" font-size="21">Electronics &amp; Communication Engineering</text>
+ <text x="40" y="254" fill="#efbb87" font-family="monospace" font-size="15">Embedded systems / PCB design / Signal processing</text>
+ <text x="40" y="293" fill="#bbcbb4" font-family="Arial,Helvetica,sans-serif" font-size="15">VIT-AP University   ·   Kochi, India   ·   @sour6x</text>
+ <rect x=".75" y=".75" width="1198.5" height="328.5" rx="16" fill="none" stroke="#63714b" stroke-opacity=".55" stroke-width="1.5"/>
+</svg>
+
